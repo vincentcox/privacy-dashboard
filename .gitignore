@@ -1,0 +1,8 @@
+.DS_Store
+output_dir/
+report.html
+targets/news
+targets/random
+script_dev.sh
+out
+error
