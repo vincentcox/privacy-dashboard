@@ -1,5 +1,5 @@
 # Privacy dashboard
-This project uses the [website-evidence-collector tool](https://github.com/EU-EDPS/website-evidence-collector) to do the hard work. This tool is an initiative of the European union. This dashboard script just puts everything together in a nice dashboard to get an overview of all your websites.
+This project uses the [website-evidence-collector tool](https://github.com/EU-EDPS/website-evidence-collector) to do the hard work. That tool is an initiative of the European union. This dashboard script just puts everything together in a nice dashboard to get an overview of all your websites.
 
 ![DPO Holding fancy iPad Pro](resources_readme/DPO_holding_iPad_Pro_Mockup.jpg)
 
